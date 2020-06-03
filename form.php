@@ -5,6 +5,7 @@
     <title>formulaire</title>
   </head>
   <body>
+    <p>Entrez mot de passe Administrateur</p>
     <form class="" action="mdpBon.php" method="post">
       <input type="password" name="mdp" value="">
       <input type="submit" name="" value="Valider">
